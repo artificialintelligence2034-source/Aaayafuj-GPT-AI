@@ -1,0 +1,8 @@
+{
+  "name": "Aaayafuj GPT",
+  "description": "A fully offline-themed sovereign AI interface for local model interaction, knowledge training, and private media generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
